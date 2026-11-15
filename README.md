@@ -25,6 +25,7 @@
  
  6.	After finishing the sketch use finish sketch option to finalize the sketch.
  ![image](https://user-images.githubusercontent.com/113594316/198232907-8275f39c-9031-4cf4-b0c4-8eb568e477ab.png)
+ 
  7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard
  
  ![image](https://user-images.githubusercontent.com/113594316/198232997-7172a35b-79a2-45e4-88a3-5e741b4d90ce.png)
@@ -36,7 +37,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ <img width="1007" height="706" alt="Screenshot 2026-11-15 181925" src="https://github.com/user-attachments/assets/b3428254-3ba1-4f35-a654-3ff793785ef2" />
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
